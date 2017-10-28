@@ -19,3 +19,4 @@ total = age + height + weight
 
 print(f"If I add {age}, {height}, {weight} I get {total}")
 print(f"If I add {age}, {height}, {weight} I get {total}")
+print(f"If I add {age}, {height}, {weight} I get {total}")
